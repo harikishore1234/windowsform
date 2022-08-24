@@ -1,0 +1,11 @@
+C:\hk personal\delegateconcepts windows form\bin\Debug\delegateconcepts windows form.exe.config
+C:\hk personal\delegateconcepts windows form\bin\Debug\delegateconcepts windows form.exe
+C:\hk personal\delegateconcepts windows form\bin\Debug\delegateconcepts windows form.pdb
+C:\hk personal\delegateconcepts windows form\obj\Debug\delegateconcepts windows form.csproj.AssemblyReference.cache
+C:\hk personal\delegateconcepts windows form\obj\Debug\delegateconcepts windows form.csproj.SuggestedBindingRedirects.cache
+C:\hk personal\delegateconcepts windows form\obj\Debug\delegateconcepts_windows_form.Form1.resources
+C:\hk personal\delegateconcepts windows form\obj\Debug\delegateconcepts_windows_form.Properties.Resources.resources
+C:\hk personal\delegateconcepts windows form\obj\Debug\delegateconcepts windows form.csproj.GenerateResource.cache
+C:\hk personal\delegateconcepts windows form\obj\Debug\delegateconcepts windows form.csproj.CoreCompileInputs.cache
+C:\hk personal\delegateconcepts windows form\obj\Debug\delegateconcepts windows form.exe
+C:\hk personal\delegateconcepts windows form\obj\Debug\delegateconcepts windows form.pdb
